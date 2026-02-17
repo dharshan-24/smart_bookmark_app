@@ -68,9 +68,17 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 ⚡ Real-time updates (Supabase realtime)
 
-📱 Responsive modern UI
+---
 
-☁️ Deployed on Vercel
+**📱 Responsive modern UI**
+
+<p align="center">
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 155837" src="https://github.com/user-attachments/assets/d280382b-8c3b-4984-8f6b-bbb304a6b401" />
+
+
+---
+
+**☁️ Deployed on Vercel**
 
 
 🛠️**Tech Stack**
