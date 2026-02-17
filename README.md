@@ -2,12 +2,13 @@
 
 A modern bookmark manager that allows users to securely save and manage personal bookmarks in real-time using Google authentication.
 
-
+---
 
 🚀 **Live Demo**
 
 🔗 https://your-vercel-url.vercel.app
 
+---
 
 📖 **Project Overview**
 
@@ -15,6 +16,8 @@ Smart Bookmark App is a full-stack web application where users can sign in with 
 Each user has private bookmark storage with instant real-time updates across sessions.
 
 
+
+---
 
 ✨ **Features**
 
@@ -24,9 +27,19 @@ Each user has private bookmark storage with instant real-time updates across ses
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 155819" src="https://github.com/user-attachments/assets/ba89c6cb-df34-4fc6-9b1c-6ea59f1e1c73" />
 
 ---
+
 ➕ Add bookmarks (title + URL)
+<p align="center">
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 155837" src="https://github.com/user-attachments/assets/349acfcf-b064-4c5b-8873-999351fdcbf1" />
+
+
+---
 
 ❌ Delete personal bookmarks
+
+
+
+
 
 👤 User-specific private data
 
