@@ -21,27 +21,42 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 ✨ **Features**
 
-🔐 Google OAuth authentication
+**🔐 Google OAuth authentication**
 
 <p align="center">
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 155819" src="https://github.com/user-attachments/assets/ba89c6cb-df34-4fc6-9b1c-6ea59f1e1c73" />
 
 ---
 
-➕ Add bookmarks (title + URL)
+**➕ Add bookmarks (title + URL)**
 <p align="center">
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 155837" src="https://github.com/user-attachments/assets/349acfcf-b064-4c5b-8873-999351fdcbf1" />
 
 
 ---
 
-❌ Delete personal bookmarks
+**❌ Delete personal bookmarks**
+
+<p align="center">
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 160547" src="https://github.com/user-attachments/assets/3ac704fe-5493-4911-8dd6-6cc6843c769d" />
 
 
+---
 
 
+**DataBase Store Data**
+<p align="center">
 
-👤 User-specific private data
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 160713" src="https://github.com/user-attachments/assets/da52efee-2c63-4408-8498-622327933861" />
+
+
+---
+
+
+**👤 User-specific private data**
+
+
 
 ⚡ Real-time updates (Supabase realtime)
 
