@@ -12,8 +12,14 @@ A modern bookmark manager that allows users to securely save and manage personal
 
 📖 **Project Overview**
 
-Smart Bookmark App is a full-stack web application where users can sign in with Google and manage their personal bookmarks.
-Each user has private bookmark storage with instant real-time updates across sessions.
+The Smart Bookmark App is a full-stack web application designed to help users securely save, organize, and manage their personal web bookmarks in one place. The application uses Google OAuth authentication to provide a seamless and secure login experience without requiring traditional email/password registration.
+
+Once authenticated, users can add bookmarks with a title and URL, view them instantly, and delete them when no longer needed. All bookmarks are private and accessible only to the respective user, ensuring complete data isolation and security.
+
+A key feature of the application is real-time synchronization powered by Supabase. Any bookmark added or removed is immediately reflected across multiple open sessions or browser tabs without requiring a page refresh. The system is built using modern web technologies including Next.js App Router, Supabase backend services (authentication, database, and realtime), and Tailwind CSS for responsive UI design. The application is deployed on Vercel for fast and reliable cloud hosting.
+
+This project demonstrates practical implementation of authentication, database design, real-time data handling, and modern deployment workflows in a production-ready environment. 
+
 
 
 
