@@ -1,50 +1,40 @@
-Smart Bookmark App 🔖
-
-A full-stack cloud bookmark manager built with Next.js, Supabase, Google OAuth, and Tailwind CSS.
-Users can securely log in with Google and manage their private bookmarks from anywhere.
-
-🌐 Live Demo
+🔖 Smart Bookmark App
+<p align="center"> <b>A secure cloud bookmark manager built with Next.js + Supabase + Google OAuth</b><br> Save, manage, and access your personal bookmarks from anywhere. </p> <p align="center"> <img src="https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs"> <img src="https://img.shields.io/badge/Supabase-Auth%20%26%20DB-3ECF8E?logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel"> </p>
+🌐 Live Application
 
 👉 https://smart-bookmark-app-lemon-eight.vercel.app
 
 📖 Project Overview
 
-The Smart Bookmark App is a personal bookmark management web application that allows users to store and manage bookmarks in the cloud.
+The Smart Bookmark App is a full-stack web application that allows users to securely store and manage personal bookmarks in the cloud.
 
-Users authenticate using Google OAuth, and each bookmark (title + URL) is stored securely in a Supabase PostgreSQL database.
-Bookmarks are private and visible only to the logged-in user.
+Users authenticate using Google OAuth, and each bookmark (title + URL) is saved in a Supabase PostgreSQL database.
+Bookmarks are linked to the logged-in user ID, ensuring complete privacy.
 
-The application supports real-time updates and is deployed online using Vercel.
+The application supports real-time updates and is deployed globally using Vercel.
 
 ✨ Features
 
-🔐 Google OAuth Login
-
-➕ Add Bookmark
-
-🗑️ Delete Bookmark
-
-👤 User-specific private data
-
-⚡ Real-time database updates
-
-☁️ Cloud hosted (Vercel)
-
-📱 Responsive UI
+✅ Google Authentication
+✅ Add Bookmark (Title + URL)
+✅ Delete Bookmark
+✅ Private per User
+✅ Real-time Sync
+✅ Responsive UI
+✅ Cloud Deployment
 
 🖼️ Application Screenshots
-Dashboard UI
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/bookmark/bookmark.png" width="700">
+📊 Dashboard Interface
+<p align="center"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/bookmark/bookmark.png" width="750"> </p>
 
-Users can add and manage bookmarks after login.
+Users can add, view, and delete bookmarks after login.
 
-Supabase Database Table
-<img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/public/img/guides/database/table-editor.png" width="700">
+🗄️ Supabase Database Table
+<p align="center"> <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/public/img/guides/database/table-editor.png" width="750"> </p>
 
-Bookmarks stored with user_id ensuring privacy.
+Bookmarks stored securely with user_id.
 
 🏗️ Tech Stack
-
 Frontend
 
 Next.js (App Router)
@@ -59,29 +49,26 @@ Supabase Auth (Google OAuth)
 
 Supabase PostgreSQL Database
 
-Supabase Realtime
+Supabase Realtime API
 
 Deployment
 
-Vercel
+Vercel Cloud Hosting
 
 ⚙️ How to Run Locally
-
-Clone repository:
-
 git clone https://github.com/YOUR_USERNAME/smart-bookmark.git
 cd smart-bookmark
 npm install
 npm run dev
 
 
-Open browser:
+Open in browser:
 
 http://localhost:3000
 
 🔐 Environment Variables
 
-Create .env.local file in root:
+Create .env.local in root folder:
 
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
@@ -97,23 +84,19 @@ title	text
 url	text
 created_at	timestamp
 
-Each bookmark belongs to a specific user via user_id.
+Each bookmark belongs to the authenticated user via user_id.
 
 🔄 Application Flow
 
-User clicks Sign in with Google
+1️⃣ User clicks Sign in with Google
+2️⃣ Supabase authenticates user
+3️⃣ User redirected to dashboard
+4️⃣ App fetches user bookmarks
+5️⃣ User adds or deletes bookmark
+6️⃣ Database updates instantly
+7️⃣ UI refreshes in real time
 
-Supabase authenticates user
-
-User redirected to dashboard
-
-App fetches user bookmarks
-
-User can add/delete bookmarks
-
-UI updates instantly
-
-🚀 Deployment (GitHub + Vercel)
+🚀 Deployment
 Push to GitHub
 git init
 git add .
@@ -124,7 +107,7 @@ git push -u origin main
 
 Deploy to Vercel
 
-Go to https://vercel.com
+Open https://vercel.com
 
 Import GitHub repository
 
@@ -132,7 +115,7 @@ Add environment variables
 
 Click Deploy
 
-Vercel automatically generates a live URL.
+Vercel generates live URL automatically.
 
 🎓 Seminar Explanation
 
@@ -150,11 +133,11 @@ This project demonstrates authentication, database integration, and cloud deploy
 
 ⚠️ Challenges & Solutions
 
-OAuth redirect error
-→ Fixed by setting correct Vercel redirect URL
+OAuth redirect issue
+→ Fixed by configuring Vercel redirect URL
 
 User data privacy
-→ Solved using user_id filtering
+→ Implemented user_id filtering
 
 Deployment environment variables
 → Configured in Vercel dashboard
@@ -163,11 +146,11 @@ Deployment environment variables
 
 Google OAuth authentication
 
-Supabase integration
+Supabase database integration
 
-Next.js App Router
+Next.js App Router architecture
 
-Full-stack deployment
+Full-stack deployment workflow
 
 Cloud database design
 
@@ -176,6 +159,7 @@ User-based data privacy
 👨‍💻 Author
 
 Dharshan Lakshmanan
+Junior Web Developer
 
 📌 GitHub Description
 
