@@ -97,6 +97,7 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 ---
 
+
 🛠️**Tech Stack**
 
 Frontend: Next.js (App Router)
@@ -109,7 +110,10 @@ Styling: Tailwind CSS
 
 Deployment: Vercel
 
+
 ---
+
+
 
 
 🧱 **Architecture**
@@ -122,6 +126,7 @@ User → Google Login → Supabase Auth
                  Vercel
 
 ⚙️ Installation & Setup
+
 
 
 ---
