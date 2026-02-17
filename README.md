@@ -29,11 +29,13 @@ Each user has private bookmark storage with instant real-time updates across ses
 ---
 
 **🔐 Google OAuth authentication**
+
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 160651" src="https://github.com/user-attachments/assets/92c00a4a-e963-4f78-9e95-bfada40af653" />
 
 ---
 
 **➕ Add bookmarks (title + URL)**
+
 <p align="center">
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 155837" src="https://github.com/user-attachments/assets/349acfcf-b064-4c5b-8873-999351fdcbf1" />
 
@@ -52,6 +54,7 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 
 **DataBase Store Data**
+
 <p align="center">
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 160713" src="https://github.com/user-attachments/assets/da52efee-2c63-4408-8498-622327933861" />
@@ -125,7 +128,6 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
 4️⃣ **Run locally**
 
 npm run dev
-
 
 App runs on:
 
