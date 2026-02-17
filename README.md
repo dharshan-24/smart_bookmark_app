@@ -69,7 +69,14 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 
 
-⚡ Real-time updates (Supabase realtime)
+---
+
+**⚡ Real-time updates (Supabase realtime)**
+
+<p align="center">
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 162827" src="https://github.com/user-attachments/assets/c3c9d169-f11b-4ddc-8199-a82605eef8c9" />
+
 
 ---
 
