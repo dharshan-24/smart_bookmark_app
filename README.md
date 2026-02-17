@@ -72,6 +72,7 @@ This project demonstrates practical implementation of authentication, database d
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 160713" src="https://github.com/user-attachments/assets/da52efee-2c63-4408-8498-622327933861" />
 
 ---
+---
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 160947" src="https://github.com/user-attachments/assets/7740639e-787b-448b-846e-3aa6eaa556f8" />
 
