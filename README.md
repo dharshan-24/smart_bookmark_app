@@ -119,7 +119,7 @@ User → Google Login → Supabase Auth
 
 
 1️⃣ **Clone the repository**
-git clone https://github.com/your-username/smart-bookmark-app.git
+git clone https://github.com/dharshan-24/smart_bookmark_app.git
 cd smart-bookmark-app
 
 2️⃣ **Install dependencies**
