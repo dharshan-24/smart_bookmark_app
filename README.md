@@ -90,6 +90,12 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 **☁️ Deployed on Vercel**
 
+<p align="center">
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 163510" src="https://github.com/user-attachments/assets/1b299a48-ed6d-44a2-9b9f-51a01bd81fbc" />
+
+
+---
 
 🛠️**Tech Stack**
 
@@ -103,6 +109,7 @@ Styling: Tailwind CSS
 
 Deployment: Vercel
 
+---
 
 
 🧱 **Architecture**
@@ -117,13 +124,18 @@ User → Google Login → Supabase Auth
 ⚙️ Installation & Setup
 
 
+---
 
 1️⃣ **Clone the repository**
 git clone https://github.com/dharshan-24/smart_bookmark_app.git
 cd smart-bookmark-app
 
+---
+
 2️⃣ **Install dependencies**
 npm install
+
+---
 
 3️⃣ **Configure environment variables**
 
@@ -131,6 +143,8 @@ Create .env.local
 
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
+
+---
 
 4️⃣ **Run locally**
 
@@ -140,6 +154,7 @@ App runs on:
 
 http://localhost:3000
 
+---
 
 🗄️ **Database Schema (Supabase)**
 
@@ -152,11 +167,14 @@ title	text	Bookmark title
 url	text	Website URL
 created_at	timestamp	Created time
 
+---
 
 🔄 **Real-Time Logic**
 
 Supabase realtime subscription listens for changes in the bookmarks table and updates UI instantly without refresh.
 
+
+---
 
 🔒 **Security**
 
@@ -166,6 +184,8 @@ Users can only access their own bookmarks
 
 Google OAuth handled by Supabase
 
+
+---
 
 🚀 **Deployment**
 
@@ -182,6 +202,8 @@ Add environment variables
 Deploy
 
 
+---
+
 🧪 **Test Instructions**
 
 Open live URL
@@ -197,6 +219,8 @@ Bookmark appears instantly
 Delete bookmark
 
 
+---
+
 🐞 **Challenges & Solutions**
 
 Problem: Google OAuth redirect issue after deployment
@@ -208,6 +232,8 @@ Solution: Fixed Tailwind config & global CSS import
 Problem: Real-time updates not working
 Solution: Enabled Supabase realtime & subscription channel
 
+
+---
 
 📌 **Future Improvements**
 
@@ -221,11 +247,15 @@ Import/export bookmarks
 
 Browser extension
 
+---
+
 
 👨‍💻 **Author**
 
 **Dharshan Lakshmanan**
 
+
+---
 
 📄 **License**
 
