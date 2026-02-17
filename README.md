@@ -27,6 +27,7 @@ This project demonstrates practical implementation of authentication, database d
 
 ---
 
+
 ✨ **Features**
 
 **Sign in with Google**
@@ -36,11 +37,13 @@ This project demonstrates practical implementation of authentication, database d
 
 ---
 
+
 **🔐 Google OAuth authentication**
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 160651" src="https://github.com/user-attachments/assets/92c00a4a-e963-4f78-9e95-bfada40af653" />
 
 ---
+
 
 **➕ Add bookmarks (title + URL)**
 
@@ -49,6 +52,7 @@ This project demonstrates practical implementation of authentication, database d
 
 
 ---
+
 
 **❌ Delete personal bookmarks**
 
