@@ -20,6 +20,10 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 🔐 Google OAuth authentication
 
+<p align="center">
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 155819" src="https://github.com/user-attachments/assets/ba89c6cb-df34-4fc6-9b1c-6ea59f1e1c73" />
+
+---
 ➕ Add bookmarks (title + URL)
 
 ❌ Delete personal bookmarks
