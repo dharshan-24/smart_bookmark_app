@@ -21,10 +21,14 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 ✨ **Features**
 
-**🔐 Google OAuth authentication**
+**Sign in with Google**
 
 <p align="center">
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 155819" src="https://github.com/user-attachments/assets/ba89c6cb-df34-4fc6-9b1c-6ea59f1e1c73" />
+
+---
+
+**🔐 Google OAuth authentication**
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 160651" src="https://github.com/user-attachments/assets/92c00a4a-e963-4f78-9e95-bfada40af653" />
 
 ---
