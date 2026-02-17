@@ -6,7 +6,7 @@ export default function Login() {
     await supabase.auth.signInWithOAuth({
       provider: "google",
       options: {
-        redirectTo: "https://smart-bookmark-app-lemon-eight.vercel.app/login",
+        redirectTo: "https://smart-bookmark-app-lemon-eight.vercel.app/dashboard",
       },
     });
   };
