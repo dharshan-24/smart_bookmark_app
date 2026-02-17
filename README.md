@@ -6,7 +6,7 @@ A modern bookmark manager that allows users to securely save and manage personal
 
 🚀 **Live Demo**
 
-🔗 https://your-vercel-url.vercel.app
+🔗 https://smart-bookmark-app-lemon-eight.vercel.app/login
 
 ---
 
