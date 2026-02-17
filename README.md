@@ -1,4 +1,4 @@
-                                                                                  📌 **Smart Bookmark App****
+                                                          **📌 Smart Bookmark App**
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/> <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase"/> <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS"/> <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel"/> <img src="https://skillicons.dev/icons?i=google" height="50" alt="Google OAuth"/> </p>
 
