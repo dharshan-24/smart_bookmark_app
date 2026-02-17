@@ -25,6 +25,7 @@ Each user has private bookmark storage with instant real-time updates across ses
 
 <p align="center">
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 155819" src="https://github.com/user-attachments/assets/ba89c6cb-df34-4fc6-9b1c-6ea59f1e1c73" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 160651" src="https://github.com/user-attachments/assets/92c00a4a-e963-4f78-9e95-bfada40af653" />
 
 ---
 
@@ -45,10 +46,13 @@ Each user has private bookmark storage with instant real-time updates across ses
 ---
 
 
+
 **DataBase Store Data**
 <p align="center">
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-17 160713" src="https://github.com/user-attachments/assets/da52efee-2c63-4408-8498-622327933861" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 160947" src="https://github.com/user-attachments/assets/7740639e-787b-448b-846e-3aa6eaa556f8" />
 
 
 ---
